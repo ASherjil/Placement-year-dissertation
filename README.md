@@ -5,3 +5,5 @@ Welcome to the repository containing my dissertation developed during my placeme
 The dissertation provides an in-depth look into my work, including significant code excerpts and comprehensive explanations of multi-threading strategies, along with the application of specific algorithms. It serves as a reflection of my practical experience and showcases the application of theoretical knowledge into real-world software solutions.
 
 Feel free to delve into my journey and the concepts I've embraced during my time as an embedded software engineer.
+
+Please find the file "Dissertation_DIS_B820928.pdf".
